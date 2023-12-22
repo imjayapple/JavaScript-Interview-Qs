@@ -47,4 +47,4 @@ function finalTwoNumbers(num1, num2) {
     }
 }
 
-finalTwoNumbers(88,200)
+module.exports = finalTwoNumbers;
