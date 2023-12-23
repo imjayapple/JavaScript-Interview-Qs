@@ -15,3 +15,5 @@ test('num2 is greater than 100 and greater than num1', () => {
 test('both numbers are greater than 100 and are equal', () => {
   expect(finalTwoNumbers(150, 150)).toBe("Both numbers are greater than 100 and are equal");
 });
+
+//run the following command 'npx jest'
