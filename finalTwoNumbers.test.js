@@ -18,7 +18,7 @@ test('both numbers are greater than 100 and are equal', () => {
 
 //run the following command 'npx jest'
 
-//edge cases
+//edge cases - negatives, zeros, & combinations
 
 const finalTwoNumbers = require('./finalTwoNumbers');
 
