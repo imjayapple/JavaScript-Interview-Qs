@@ -38,4 +38,4 @@ test('findMax function handles equal numbers correctly', () => {
   expect(findMax(10, 10)).toBe(10);
 });
 
-// npx jest 
+// npx jest  
